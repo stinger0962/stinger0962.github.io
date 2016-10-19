@@ -1,0 +1,29 @@
+h1{
+	color: red;
+	text-align:center;
+	text-decoration: underline;
+}
+
+#anotherh1{
+font-family: "Times";
+color: blue;
+}
+
+#anotherh1:hover{
+color: purple;
+
+transform: translate(2px);
+}
+
+#firstdiv{
+background-color:red;
+height:100px;
+width:100px;
+
+.blog {
+	width: 90%;
+	height: 30%;
+	border: 1px solid black;
+
+}
+}
